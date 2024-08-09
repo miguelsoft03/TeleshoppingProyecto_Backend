@@ -1,0 +1,6 @@
+@WebTeleshopping_HostAddress = http://localhost:5287
+
+GET {{WebTeleshopping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

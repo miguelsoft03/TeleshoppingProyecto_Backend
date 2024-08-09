@@ -1,0 +1,42 @@
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.deps.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.runtimeconfig.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.csproj.AssemblyReference.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.AssemblyInfoInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.AssemblyInfo.cs
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.csproj.CoreCompileInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\refint\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.genruntimeconfig.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\TeleshoppingProyecto\obj\Debug\net8.0\ref\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.deps.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.runtimeconfig.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.csproj.AssemblyReference.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.AssemblyInfoInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.AssemblyInfo.cs
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.csproj.CoreCompileInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\refint\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.genruntimeconfig.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\ref\TeleshoppingProyecto.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.deps.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.runtimeconfig.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\bin\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\refint\TeleshoppingProyecto.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\TeleshoppingProyecto.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\TeleshoppingProyecto\obj\Debug\net8.0\ref\TeleshoppingProyecto.dll

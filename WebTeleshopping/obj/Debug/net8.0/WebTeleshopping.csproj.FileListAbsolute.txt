@@ -1,0 +1,216 @@
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\appsettings.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.exe
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.deps.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.runtimeconfig.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\bin\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.csproj.AssemblyReference.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.AssemblyInfoInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.AssemblyInfo.cs
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.csproj.CoreCompileInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.WebTeleshopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTeleshopping.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTeleshopping.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTeleshopping.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\scopedcss\bundle\WebTeleshopping.styles.css
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeles.78FB20F0.Up2Date
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\refint\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.genruntimeconfig.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\WebTeleshopping\obj\Debug\net8.0\ref\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\appsettings.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.exe
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.deps.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.runtimeconfig.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.csproj.AssemblyReference.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.AssemblyInfoInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.AssemblyInfo.cs
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.csproj.CoreCompileInputs.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.WebTeleshopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTeleshopping.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTeleshopping.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTeleshopping.props
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\scopedcss\bundle\WebTeleshopping.styles.css
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeles.78FB20F0.Up2Date
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\refint\WebTeleshopping.dll
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.pdb
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.genruntimeconfig.cache
+C:\Users\hmaga\Downloads\SEPTIMO SEMESTRE - SOFTWARE\ProyectoDAWA2P\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\ref\WebTeleshopping.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\appsettings.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.exe
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.deps.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.runtimeconfig.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\WebTeleshopping.pdb
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\TeleshoppingProyecto.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\bin\Debug\net8.0\TeleshoppingProyecto.pdb
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.WebTeleshopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTeleshopping.props
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTeleshopping.props
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTeleshopping.props
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\scopedcss\bundle\WebTeleshopping.styles.css
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeles.78FB20F0.Up2Date
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\refint\WebTeleshopping.dll
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.pdb
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\WebTeleshopping.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Semestre\DAWA\Proyecto DAWA\Proyecto actualizado\BackendGrupo10\WebTeleshopping\obj\Debug\net8.0\ref\WebTeleshopping.dll
